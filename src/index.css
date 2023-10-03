@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.organizer {
+  border: #822468 solid 2px;
+  padding: 20px;
+  box-shadow: #ffda15 2px 2px;
+  margin-bottom: 20px;
+  height: 200px;
+  width: 170px;
+  object-fit: cover;
+}
